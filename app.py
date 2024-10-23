@@ -60,11 +60,11 @@ def display_videos(level):
     # Lista de vídeos a serem exibidos por nível
     videos_by_level = {
         1: [
-            {"id": "video1", "title": "Vídeo Nível 1 - Básico", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
-            {"id": "video2", "title": "Vídeo Nível 1 - Fundamentos", "url": "https://www.youtube.com/watch?v=abc123example"}
+            {"id": "video1", "title": "Vídeo Nível 1 - Básico", "url": "https://www.youtube.com/watch?v=WlZJne198Do"},
+            {"id": "video2", "title": "Vídeo Nível 1 - Tocando as notas Dó-Ré-Mi-Fá-Sol no Trompete", "url": "https://www.youtube.com/watch?v=AD-weQlmMkE&t=9s"}
         ],
         2: [
-            {"id": "video3", "title": "Vídeo Nível 2 - Intermediário", "url": "https://www.youtube.com/watch?v=def456example"},
+            {"id": "video3", "title": "Vídeo Nível 2 - Escala de Dó Maior no Trompete", "url": "https://www.youtube.com/watch?v=bAEcQ9uy6-o"},
             {"id": "video4", "title": "Vídeo Nível 2 - Técnicas Avançadas", "url": "https://www.youtube.com/watch?v=ghi789example"}
         ],
         3: [
